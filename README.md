@@ -1,12 +1,14 @@
 # SSWnet-yolo
-Real-time Melanoma Detection Algorithm
+Camouflaged Detection: Optimization-Based Computer Vision for Alligator sinensis with Low Detectability in Complex Wild Environments
 
-![1720295279380](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/20db9ed3-0ff8-453f-b94c-f2d223e6439c)
+![image](https://github.com/user-attachments/assets/fcb1f77e-857a-49cf-a8f6-9a0978146b53)
+
 
 # Introduction
-Based on Dynamic Snake Convolution,
+Abstract
+The Alligator sinensis is among the world's rarest wild animals, often camouflaged to blend seamlessly with its natural habitat. This camouflage complicates detection efforts by both humans and automated systems, underscoring the urgent need for advanced wildlife monitoring technologies. To address this, we introduce YOLO v8-SIM, a novel detection method designed to significantly boost identification accuracy. The YOLO v8-SIM employs an advanced dual-layer attention mechanism, a refined Inner-IoU optimized loss function, and a Slim Neck cross-layer hopping technique. Our findings indicate that the model achieves a precision of 91%, a recall of 89.9%, and a mean average precision (mAP) of 92.3% at an IoU threshold of 0.5, with a frame rate of 72.21 FPS, excelling in detecting partially visible or smaller objects. Further enhancing our efforts, we propose an open-source dataset featuring camouflaged Alligator sinensis in their natural habitat. These advancements collectively contribute to the improved detection of camouflaged species, thereby advancing biodiversity monitoring and protection and aiding ecosystem sustainability. 
 
-SSWnet created by Squeeze-and-Excitation Networks and Wise-IoU Integration, performance was attempted under yolov5 conditions.
+
 
 # Algorithmic Network Module Diagram
 ![Image 1](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/618b741a-8d96-4797-a358-d8d2836e1583)
