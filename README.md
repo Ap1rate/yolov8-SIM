@@ -11,19 +11,28 @@ The Alligator sinensis is among the world's rarest wild animals, often camouflag
 
 
 # Algorithmic Network Module Diagram
-![Image 1](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/618b741a-8d96-4797-a358-d8d2836e1583)
+![image](https://github.com/user-attachments/assets/767dbbd3-1b9f-417b-923d-36dc24b874a8)
 
-<p style="text-align:center;"><a href="#"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0 0 24 24'%3E%3Cpath%20d='M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z'/%3E%3C/svg%3E" alt="Down Arrow" width="24" height="24" /></a></p>
 
-![Image 2](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/4e496116-1438-4358-ac37-de0bb556425c)
+![image](https://github.com/user-attachments/assets/70b4d5c9-8aed-4c4b-ad8b-bd7b8e17c56c)
 
-<p style="text-align:center;"><a href="#"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0 0 24 24'%3E%3Cpath%20d='M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z'/%3E%3C/svg%3E" alt="Down Arrow" width="24" /></a></p>
 
-![Image 3](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/56d8f553-ef4a-4dde-8320-d09a02f54cab)
+![image](https://github.com/user-attachments/assets/7e42a287-2d3c-4d00-baa2-109cae18f5f2)
 
-<p style="text-align:center;"><a href="#"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0 0 24 24'%3E%3Cpath%20d='M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z'/%3E%3C/svg%3E" alt="Down Arrow" width="24" height="24" /></a></p>
 
-![Image 4](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/6657a793-0512-4bec-ab4b-14c9702dd425)
+![image](https://github.com/user-attachments/assets/2726ac66-23ef-4d79-820d-48b65b7e4d55)
+
+
+![image](https://github.com/user-attachments/assets/80988617-4d9e-49a0-96bb-5d424cf5a8e5)
+
+
+![image](https://github.com/user-attachments/assets/fa08cbd7-fa53-4f02-b54d-47200e208ecd)
+
+
+![image](https://github.com/user-attachments/assets/7e1ce26b-d1c7-427f-adc4-b74b825a005c)
+
+
+
 # Performance
 Single Scale Inference on VGA resolution（max side is equal to 640 and scale).
 
