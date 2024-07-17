@@ -1,8 +1,7 @@
 # SSWnet-yolo
 Camouflaged Detection: Optimization-Based Computer Vision for Alligator sinensis with Low Detectability in Complex Wild Environments
 
-![image](https://github.com/user-attachments/assets/fcb1f77e-857a-49cf-a8f6-9a0978146b53)
-
+![image](https://github.com/user-attachments/assets/0e0d05a8-0291-4191-871e-396910f62b25)
 
 # Introduction
 Abstract
