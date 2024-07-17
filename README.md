@@ -1,4 +1,4 @@
-# SSWnet-yolo
+# yolov8-SIM
 Camouflaged Detection: Optimization-Based Computer Vision for Alligator sinensis with Low Detectability in Complex Wild Environments
 
 ![image](https://github.com/user-attachments/assets/0e0d05a8-0291-4191-871e-396910f62b25)
@@ -47,8 +47,8 @@ Our dataset:
 
 # install
 ```bash
-git clone https://github.com/SSWnet-yolo  # clone
-cd SSWnet-yolo
+git clone https://github.com/yolov8-SIM  # clone
+cd yolov8-SIM
 pip install -r requirements.txt  # install
 ```
 # run
