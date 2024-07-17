@@ -36,9 +36,15 @@ The Alligator sinensis is among the world's rarest wild animals, often camouflag
 # Performance
 Single Scale Inference on VGA resolution（max side is equal to 640 and scale).
 
-![1720294869401](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/6a81066a-acb8-44cd-b647-27e0db51ea95)
+![image](https://github.com/user-attachments/assets/39475b82-db2b-401c-ab6d-1e0163cb5277)
+
 # datasets
-![1720295365537](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/d3ef968a-152b-470a-a492-23c42faca337)
+
+COD10K:https://paperswithcode.com/dataset/cod10k
+
+Our dataset:
+
+(Some images may not be allowed to be publicized according to the copyright-related regulations of Anhui Yangtse Alligator National Nature Reserve)
 
 # install
 ```bash
@@ -56,11 +62,16 @@ python3 evaluation.py
 ![image](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/b3fbfb47-f201-4292-8e59-73f631dc63d9)
 
 # test
-![1720294833476](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/27340f78-7d51-4101-8129-98ba78c19fe5)
-![1720294874768](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/eefc89b8-dd3a-4ab6-92a0-3016313ef007)
-![1720294892330](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/26fc9e0b-66fa-47cc-896c-5256c9c7619b)
-![1720294899751](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/68b951b2-4e19-42d7-8409-085e9a989426)
-![1720294909944](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/284c5655-f402-40e6-8bb6-36de7cc7f69f)
+![image](https://github.com/user-attachments/assets/9d53fb89-0155-43f8-88ec-53507a22ecca)
+
+
+![image](https://github.com/user-attachments/assets/ef1fdff6-30d2-4ef5-96c1-90e08e9b7020)
+
+![image](https://github.com/user-attachments/assets/de2714af-2056-41e8-a7dd-887b9a68703c)
+
+![image](https://github.com/user-attachments/assets/04c6469e-04e2-499e-8094-733b7de06c73)
+
+
 
 # References
 https://github.com/ultralytics/yolov5
