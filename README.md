@@ -44,7 +44,7 @@ COD10K:https://paperswithcode.com/dataset/cod10k
 
 Our dataset:
 
-(Some images may not be allowed to be publicized according to the copyright-related regulations of Anhui Yangtse Alligator National Nature Reserve)
+( Some images may not be allowed to be disclosed according to the copyright-related regulations of Alligator sinensis Research Center of Anhui Province )
 
 # install
 ```bash
