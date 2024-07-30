@@ -41,7 +41,7 @@ Single Scale Inference on VGA resolution（max side is equal to 640 and scale).
 
 COD10K:https://paperswithcode.com/dataset/cod10k
 
-Our dataset:
+Our dataset:https://drive.google.com/file/d/1CsL3lZkf927yPItMYKMOfuFpHWDwqQ2k/view?usp=drive_link
 
 ( Some images may not be allowed to be disclosed according to the copyright-related regulations of Alligator sinensis Research Center of Anhui Province )
 
