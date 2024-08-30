@@ -83,7 +83,15 @@ https://github.com/ultralytics/yolovX
 
 # Citation
 If you think this work is useful for you, please cite
-
+{
+Yantong Liu, Sai Che, Liwei Ai, Chuanxiang Song, Zheyu Zhang, Yongkang Zhou, Xiao Yang, Chen Xian,
+Camouflage detection: Optimization-based computer vision for Alligator sinensis with low detectability in complex wild environments,
+Ecological Informatics,
+2024,
+102802,
+ISSN 1574-9541,
+https://doi.org/10.1016/j.ecoinf.2024.102802.
+}
 
 ## <div align="center">License</div>
 
